@@ -1,7 +1,7 @@
 let textInput = document.querySelector('.input-btn'),
     buttons = ['C', 'EC', '%', '/', 7, 8, 9, '*', 4, 5, 6, '-', 1, 2, 3, '+',  0, '.', '='],
     i = 0,
-    signSensor = 0,
+    signSensor = 1,
 
 
     outputArea = document.querySelector('section.input-area');
